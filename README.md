@@ -5,5 +5,4 @@ Technology Used
 1. NodeJS
 2. ExpressJS
 3. ReactJS
-4. Express-Session
-5. Mongoose
+4. MongoDB
